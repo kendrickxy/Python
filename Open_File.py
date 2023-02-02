@@ -1,9 +1,8 @@
 # Old method
-    #f = open('secret.txt')
-    #text = f.read()
-    #f.close()
-
-    #print(text)
+#f = open('secret.txt')
+#text = f.read()
+#f.close()
+#print(text)
 
 
 # New better method
