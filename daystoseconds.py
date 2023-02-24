@@ -7,7 +7,7 @@ minHour = 60
 secMin = 60
 
 #Math and print!
-# end = ' ' will keep the next print in line.
+# end = ' ' will keep the next print in the same line.
 print ('IN ' , end =' ')
 print(num , end = ' ')
 print('day(s), are:' , end = ' ')
